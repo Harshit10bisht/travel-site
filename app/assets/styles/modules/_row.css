@@ -30,6 +30,10 @@
     }
 }
 
+.row--t-padding {
+    padding-top: 80px;   
+}
+
 .row--gutters > div {
     padding-right: 65px;
 }
@@ -42,8 +46,16 @@
     margin-right: -100px;
 }
 
+.row--gutters-small {
+    margin-right: -45px;
+}
+
 .row--gutters-large > div {
     padding-right: 100px;
+}
+
+.row--gutters-small > div {
+    padding-right: 45px;
 }
 
 .row__b-margin-medium {
@@ -52,3 +64,4 @@
         margin-bottom: 0;
     }  
 }
+

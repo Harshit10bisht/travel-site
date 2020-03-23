@@ -12,3 +12,13 @@
     background-color: #2f5572;
     color: #FFF;
 }
+
+.page-section--testimonials {
+    background-color: #e0e6ef;
+}
+@media (min-width: 530px) {
+.page-section--testimonials {
+    background: url('C:/Users/user/Desktop/Projects/travel-site/app/assets/images/testimonials-bg.jpg') top center no-repeat;
+    background-size: cover;
+    }
+}
