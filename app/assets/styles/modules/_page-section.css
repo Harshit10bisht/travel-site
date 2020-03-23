@@ -1,5 +1,11 @@
 .page-section {
-   padding: 4.5rem 0; 
+   padding: 1.2rem 0; 
+}
+
+@media (min-width: 900px) {
+    .page-section {
+        padding: 4.5rem 0;
+    }
 }
 
 .page-section--blue {
