@@ -22,6 +22,7 @@
         width: 37%;
     }
     .row__8--smaller {
+        margin-top: 3rem;
         width: 63%;
     }
     .row__6 {
@@ -59,9 +60,9 @@
 }
 
 .row__b-margin-medium {
+    margin-top: 3rem;
     margin-bottom: 1rem;
     @media screen {
         margin-bottom: 0;
     }  
 }
-

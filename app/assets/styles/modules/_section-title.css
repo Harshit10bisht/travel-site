@@ -2,6 +2,7 @@
     font-size: 2.55rem;
     font-weight: 300;
     text-align: center;
+    color: brown;
     @media screen {
         font-size: 3.75rem;
     }
@@ -21,8 +22,4 @@
         margin-left: 0;
         display: inline-block;
     }
-}
-
-.section-title--blue {
-    color: #2F5572;
 }

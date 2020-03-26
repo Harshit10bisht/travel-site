@@ -1,6 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #333;
+    background: linear-gradient(to right, #1f1e1e, #dd1818);
+    overflow-x: hidden;
 }
 
 img {

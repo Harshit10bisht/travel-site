@@ -9,7 +9,7 @@
 }
 
 .page-section--blue {
-    background-color: #2f5572;
+    background: linear-gradient(to right, #1f1e1e, #ff8888);
     color: #FFF;
 }
 
@@ -18,7 +18,7 @@
 }
 @media (min-width: 530px) {
 .page-section--testimonials {
-    background: url('C:/Users/user/Desktop/Projects/travel-site/app/assets/images/testimonials-bg.jpg') top center no-repeat;
+    background: url('C:/Users/user/Desktop/Projects/travel-site/app/assets/images/manu-2.jpg') top center no-repeat;
     background-size: cover;
     }
 }
