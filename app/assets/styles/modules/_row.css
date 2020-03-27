@@ -1,5 +1,6 @@
 .row {
-    
+    max-width: 97%;
+    margin-left: 4rem;
 }
 
 .row::after {
@@ -63,6 +64,6 @@
     margin-top: 3rem;
     margin-bottom: 1rem;
     @media screen {
-        margin-bottom: 0;
+        margin-bottom: 0;   
     }  
 }

@@ -2,17 +2,18 @@
     font-size: 2.55rem;
     font-weight: 300;
     text-align: center;
-    color: brown;
+    color: #FFF;
     @media screen {
         font-size: 3.75rem;
     }
 }
 
 .section-title__icon {
+    height: 5rem;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.2rem;
 }
     @media (min-width: 530px) {
     .section-title__icon{
