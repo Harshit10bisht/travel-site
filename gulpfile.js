@@ -10,7 +10,7 @@ mixins = require('postcss-mixins');
 
 /*gulp.task('default',async function(){
 console.log('Hooray...First task');
-});*/
+});
 
 gulp.task('html', function() {
     console.log("Imagine something useful being done to your HTML here.");
@@ -21,7 +21,7 @@ gulp.task('watch', function() {
     gulp.start('html');
   });
 
-  watch('./app/assets/styles/**/*.css', function() {
+  watch('./app/assets/styles/.css', function() {
     gulp.start('styles');
   });
 });
@@ -31,3 +31,5 @@ gulp.task('styles', function() {
   .pipe(postcss([cssImport, mixins, cssvars, nested, autoprefixer]))
   .pipe(gulp.dest('C:/..Users/user/Desktop/Projects/travel-site/app/temp/styles'));
 });
+
+*/
