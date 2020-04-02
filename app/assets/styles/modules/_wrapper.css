@@ -11,6 +11,10 @@
     max-width: 976px;
 }
 
+.wrapper--narrow {
+    max-width: 470px;
+}
+
 @media (min-width: 300px) {
     .wrapper--medium{
         padding-left: 0;

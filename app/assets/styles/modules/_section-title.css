@@ -26,3 +26,8 @@
 .section-title--blue {
     color: #2F5572;
 }
+
+.section-title--less-margin {
+    margin-bottom: 1.3rem;
+    margin-top: 0;
+}
