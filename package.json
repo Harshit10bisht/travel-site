@@ -8,7 +8,7 @@
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^4.0.1",
     "normalize.css": "7.0.0",
-    "picturefill": "3.0.2",
+    "picturefill": "^3.0.3",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
@@ -36,6 +36,7 @@
     "postcss-nested": "2.1.2",
     "postcss-simple-vars": "4.1.0",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   }
 }
